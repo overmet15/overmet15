@@ -1,5 +1,3 @@
-[![overmet15's GitHub Stats](https://github-readme-stats.vercel.app/api?username=overmet15&show_icons=true&theme=dark&rank_icon=percentile)](https://github.com/overmet15)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overmet15&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello! Welcome to my profile!
 #### About Me
