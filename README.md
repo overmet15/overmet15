@@ -8,7 +8,6 @@ Hello! Welcome to my profile!
 My name is **Met**/**Burnout**.  
 I'm Russian!  
 I usally work with Unity or .NET/C#.  
-I **used** to like Pixel Gun... Check out [Pixel Archives!](https://github.com/PixelArchives)
 
 Please speed i need this:
 
