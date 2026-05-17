@@ -12,3 +12,5 @@ I usally work with Unity or .NET/C#.
 Please speed i need this:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L51NOALF)
+
+<h6>if the fucking window on the right doesnt work, blame whoever is hosting the thing.</h6>
