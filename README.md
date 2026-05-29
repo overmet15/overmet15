@@ -1,7 +1,7 @@
 Hello! Welcome to my profile!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=overmet15&theme=dark&rank_icon=percentile" />
+<a href="https://git.io/streak-stats">
+<img align="right" src="https://streak-stats.demolab.com?user=overmet15&theme=dark&hide_border=true&border_radius=0&background=1%2C437B22%2C5A2559" alt="GitHub Streak" />
 </a>
 
 #### About Me
@@ -10,7 +10,6 @@ I'm Russian!
 I usally work with Unity or .NET/C#.  
 
 Please speed i need this:
+<h6>Ko-Fi currently not working im pretty sure. Ill resolve it whenever i can.</h6>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L51NOALF)
-
-<h6>if the fucking window on the right doesnt work, blame whoever is hosting the thing.</h6>
