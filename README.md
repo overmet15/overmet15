@@ -9,17 +9,15 @@ My name is **Met**/**Burnout**.
 I'm Russian!  
 I usally work with Unity or .NET/C#.  
 
-#### Known Languages:
-| Status | Languages |
-|-|-|
-|Well known:| ![Static Badge](https://img.shields.io/badge/C%23-blue) |
-
 #### Known Tools:
 | Status | Tools |
 |-|-|
-|Well known:| ![Static Badge](https://img.shields.io/badge/Unity_Engine-383838) ![Static Badge](https://img.shields.io/badge/Aseprite-white) |
-|Know basics:| ![Static Badge](https://img.shields.io/badge/Blender-orange) |
-|Know well but cant cook:| ![Static Badge](https://img.shields.io/badge/FL_Studio-383838?labelColor=orange) |
+|Languages| ![Static Badge](https://img.shields.io/badge/Well%20known-darkblue?style=plastic&label=C%23&labelColor=blue) |
+|Engines| ![Static Badge](https://img.shields.io/badge/Great-gray?style=plastic&label=Unity%20Engine&labelColor=383838) |
+|2D| ![Static Badge](https://img.shields.io/badge/Well%20known-gray?style=plastic&label=Aseprite&labelColor=white) | 
+|IDEs| ![Static Badge](https://img.shields.io/badge/Known-purple?style=plastic&label=Visual%20Studio&labelColor=magenta) ![Static Badge](https://img.shields.io/badge/Hate%20but%20forced%20to%20use-red?style=plastic&label=Visual%20Studio%20Code&labelColor=blue) |
+|3D| ![Static Badge](https://img.shields.io/badge/Barely-darkorange?style=plastic&label=Blender&labelColor=orange) |
+|Etc:| ![Static Badge](https://img.shields.io/badge/Know%20well%20but%20cant%20cook-323232?style=plastic&label=FL%20Studio&labelColor=orange) |
 
 
 Please speed i need this:
