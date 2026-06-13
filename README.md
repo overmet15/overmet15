@@ -22,7 +22,8 @@ Please speed i need this:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L51NOALF)
 
 
-I deadass have no idea where to put it.
+I deadass have no idea where to put it.  
+Shoulve had like 300 more commits but i got booted off the repository which made github not count those commits, nice!  
 
 <a href="https://git.io/streak-stats">
 <img align="center" src="https://streak-stats.demolab.com?user=overmet15&theme=dark&hide_border=true&border_radius=0&background=1%2C437B22%2C5A2559" alt="GitHub Streak" />
