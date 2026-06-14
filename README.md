@@ -6,7 +6,7 @@ I'm Russian!
 I usally work with Unity or .NET/C#.  
 
 #### Known Tools:
-| Status | Tools |
+| Type | Tools |
 |-|-|
 |Languages| ![Static Badge](https://img.shields.io/badge/Well%20known-darkblue?style=plastic&label=C%23&labelColor=blue) |
 |Engines| ![Static Badge](https://img.shields.io/badge/Great-gray?style=plastic&label=Unity%20Engine&labelColor=383838) |
