@@ -17,7 +17,6 @@ I usally work with Unity or .NET/C#.
 
 
 Please speed i need this:
-<h6>Ko-Fi currently not working im pretty sure. I should be able to resolve it this month.</h6>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L51NOALF)
 
