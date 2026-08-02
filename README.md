@@ -2,8 +2,7 @@ Hello! Welcome to my profile!
 
 #### About Me
 My name is **Met**/**Burnout**.  
-I'm Russian!  
-I usally work with Unity or .NET/C#.  
+I usually work with Unity or .NET/C#.  
 
 #### Known Tools:
 | Type | Tools |
