@@ -25,5 +25,5 @@ I deadass have no idea where to put it.
 Shoulve had like 300 more commits but i got booted off the repository which made github not count those commits, nice!  
 
 <a href="https://git.io/streak-stats">
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=overmet15" alt="GitHub Streak" />
+<img align="center" src="./profile/stats.svg" alt="GitHub Streak" />
 </a>
