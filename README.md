@@ -22,7 +22,8 @@ Please speed i need this:
 
 
 I deadass have no idea where to put it.  
-Shoulve had like 300 more commits but i got booted off the repository which made github not count those commits, nice!  
+
+Why do i even have this dumbass thing? I have like 2k commits and this shit doesnt even count it right.
 
 <a href="https://git.io/streak-stats">
 <img align="center" src="./profile/stats.svg" alt="GitHub Streak" />
