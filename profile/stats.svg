@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Burnout&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  : 732, Total PRs: 14, Total Issues: 3, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  : 732, Total PRs: 14, Total Issues: 3, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >7</text>
+      >6</text>
     </g>
   </g>
     </svg>
